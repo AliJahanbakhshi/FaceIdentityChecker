@@ -17,6 +17,7 @@ A real-time face recognition and identity verification system built with **Pytho
 pip install opencv-python
 ```
 
+
 ## ⚠️🚨 BIG WARNING 🚨⚠️
 
 **IMPORTANT:** The `face_recognition_sface_2021dec.onnx` model file is **NOT included in this repository**.
@@ -26,6 +27,7 @@ pip install opencv-python
 [Download face_recognition_sface_2021dec.onnx](https://huggingface.co/opencv/opencv_zoo/blob/main/models/face_recognition_sface/face_recognition_sface_2021dec.onnx?utm_source=chatgpt.com)
 
 ⚠️ **Please download the file and place it in the required project directory before running the project.**
+
 
 
 ## Usage
